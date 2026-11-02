@@ -2,6 +2,8 @@
 
 [English](README.md) | Русский
 
+> Дальнейшее развитие навыка ведётся в [коллекции skills](https://github.com/ozand/skills/tree/feat/initial-collection/skills/explain-clearly). Существующие установки не переносятся автоматически.
+
 ![Абстрактная иллюстрация проекта Explain Clearly](assets/explain-clearly.jpg)
 
 `explain-clearly` — навык для AI-агентов в формате [Agent Skills](https://agentskills.io/), помогающий объяснять понятно.
