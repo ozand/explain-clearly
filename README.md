@@ -2,7 +2,7 @@
 
 English | [Русский](README.ru.md)
 
-> Development continues in the [skills collection](https://github.com/ozand/skills/tree/feat/initial-collection/skills/explain-clearly). Existing installations do not migrate automatically.
+> Development continues in the [skills collection](https://github.com/ozand/skills). Existing installations do not migrate automatically.
 
 ![Abstract illustration for Explain Clearly](assets/explain-clearly.jpg)
 
