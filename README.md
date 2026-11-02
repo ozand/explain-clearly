@@ -2,6 +2,8 @@
 
 English | [Русский](README.ru.md)
 
+> Development continues in the [skills collection](https://github.com/ozand/skills). Existing installations do not migrate automatically.
+
 ![Abstract illustration for Explain Clearly](assets/explain-clearly.jpg)
 
 `explain-clearly` is an [Agent Skill](https://agentskills.io/) for answering requests
