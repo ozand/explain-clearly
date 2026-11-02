@@ -2,8 +2,10 @@
 
 English | [Русский](README.ru.md)
 
-`explain-clearly` is a portable agent skill for answering requests to make an
-explanation clearer. It aims to help a reader understand the relevant mechanism and
+![Abstract illustration for Explain Clearly](assets/explain-clearly.jpg)
+
+`explain-clearly` is an [Agent Skill](https://agentskills.io/) for answering requests
+to make an explanation clearer. It aims to help a reader understand the relevant mechanism and
 reason without losing important facts, uncertainty, or safety boundaries. It applies
 to technical and nontechnical topics and adapts to the audience and depth requested.
 
