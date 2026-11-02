@@ -1,5 +1,7 @@
 # Explain Clearly
 
+English | [Русский](README.ru.md)
+
 `explain-clearly` is a portable agent skill for answering requests to make an
 explanation clearer. It aims to help a reader understand the relevant mechanism and
 reason without losing important facts, uncertainty, or safety boundaries. It applies
@@ -24,6 +26,19 @@ command or automatic activation guarantee.
 An agent that supports manually loading skill instructions can also be given the
 contents of `SKILL.md`; keep `references/` alongside it if you want the examples and
 source notes available. Agent-specific installation and loading conventions vary.
+
+## For AI agents
+
+A repository URL alone does not specify whether the user wants to use or install a
+skill. Follow the user's request and the host's instructions:
+
+1. Read `SKILL.md` and the referenced files relevant to the request. To use it for
+   one conversation, apply the guidance without changing the host's configuration.
+2. For installation, consult the host's documentation to identify its supported
+   skill location and scope. Copy `SKILL.md` **and** `references/` together; preserve
+   existing files and do not overwrite another skill without permission.
+3. Report the installation location and any required reload. Do not claim that a
+   running agent discovered or activated the skill unless that was actually checked.
 
 ## Example requests
 
